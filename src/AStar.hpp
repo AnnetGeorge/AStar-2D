@@ -1,3 +1,6 @@
+#ifndef __ASTAR_2D_
+#define __ASTAR_2D_
+
 #include <vector>
 #include <cmath>
 #include <queue>
@@ -52,3 +55,5 @@ private:
     typedef std::pair<uint, GridLoc> FNode;
     std::priority_queue <FNode, std::vector<FNode>, std::greater<FNode>> frontier;
 };
+
+#endif
