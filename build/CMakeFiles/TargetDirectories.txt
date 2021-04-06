@@ -1,0 +1,4 @@
+/home/annet/Desktop/Skyspecs/astar/build/CMakeFiles/rebuild_cache.dir
+/home/annet/Desktop/Skyspecs/astar/build/CMakeFiles/astar.dir
+/home/annet/Desktop/Skyspecs/astar/build/CMakeFiles/edit_cache.dir
+/home/annet/Desktop/Skyspecs/astar/build/CMakeFiles/main.dir

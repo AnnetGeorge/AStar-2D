@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/annet/Desktop/Skyspecs/astar/main.cpp
+src/AStar.hpp
+/home/annet/Desktop/Skyspecs/astar/src/AStar.hpp
+
+/home/annet/Desktop/Skyspecs/astar/src/AStar.hpp
+vector
+-
+cmath
+-
+queue
+-
+unordered_map
+-
+iostream
+-
+fstream
+-
+algorithm
+-
+
