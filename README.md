@@ -3,7 +3,9 @@ Implementation of AStar path planning in C++ for a 2D grid world.
 
 ### Requirements
 Compiler must support C++11
+
 CMake : On Ubuntu, install Cmake using:
+
     sudo snap install cmake -classic
   
 
