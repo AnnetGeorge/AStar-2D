@@ -8,7 +8,7 @@ CMake : On Ubuntu, install CMake using:
 
     sudo snap install cmake -classic
   
-
+### Overview
 The program make use of a default grid world shown below (the visualisation is simply for demonstration of the default grid world).
 <br />
 <img src="https://github.com/AnnetGeorge/AStar-2D/blob/main/default_grid.png" width="500">
